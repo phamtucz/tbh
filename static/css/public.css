@@ -171,8 +171,7 @@ body .navbar-nav>li>a {
 .home_block img.logo {
 	display: block;
 	margin: auto;
-	width: auto;
-	height: 100px;
+	max-width: 300px;
     margin-bottom: 30px;
 }
 
